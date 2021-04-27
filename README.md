@@ -20,6 +20,6 @@ Bei diesem Aufgabenblatt geht es um die numerische Approximation der Riemann Zet
 ### Zusammenfassung
 - [ ] Finale Zusammenfassung über alle Methoden
 
-### Weitere Wichtige Anmerkungen
+### Weitere wichtige Anmerkungen
 - [ ] Kommentare und Variablennamen richtig benennen
 - [ ] Achsenbeschriftung und Latex prüfen
