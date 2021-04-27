@@ -17,4 +17,4 @@ Bei diesem Aufgabenblatt geht es um die numerische Approximation der Riemann Zet
 - [ ] Korrektes Konvergenzverhalten
 - [ ] Quellenangabe
 ### Zusammenfassung
-- [] Finale Zusammenfassung über alle Methoden
+- [ ] Finale Zusammenfassung über alle Methoden
