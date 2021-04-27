@@ -6,7 +6,7 @@ Bei diesem Aufgabenblatt geht es um die numerische Approximation der Riemann Zet
 - [ ] Thematische Einleitung zur Riemann Zeta Funktion
 ### Einfache Summierung
 - [ ] Ansatz zur einfachen Summierung beschreiben -> Abbruchkriterium erklären
-- [ ] Konvergenzverhalten einfacher Summe als Funktion von Zeit + Genauigkeit
+- [x] Konvergenzverhalten einfacher Summe als Funktion von Zeit + Genauigkeit
 - [ ] Erklärung für Fehlschlag bei einfacher Summierung
 - [ ] Konvergenzordnung von einfacher Summierung -> Analytisch & Vergleich mit Plot
 ### Erweiterte Mittelwertbildung
@@ -22,3 +22,4 @@ Bei diesem Aufgabenblatt geht es um die numerische Approximation der Riemann Zet
 
 ### Weitere Wichtige Anmerkungen
 - [ ] Kommentare und Variablennamen richtig benennen
+- [ ] Achsenbeschriftung und Latex prüfen
