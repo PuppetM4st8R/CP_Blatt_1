@@ -15,7 +15,7 @@ Bei diesem Aufgabenblatt geht es um die numerische Approximation der Riemann Zet
 - [ ] Erklärung für besseres Konvergenzverhalten
 ### Bestes Konvergenzverhalten
 - [ ] Fehlerterm Abschätzung 
-- [ ] Korrektes Konvergenzverhalten
+- [ ] Konvergenzverhalten korrekt darstellen
 - [ ] Quellenangabe
 ### Zusammenfassung
 - [ ] Finale Zusammenfassung über alle Methoden
