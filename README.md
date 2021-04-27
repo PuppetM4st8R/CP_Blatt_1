@@ -3,7 +3,7 @@ Bei diesem Aufgabenblatt geht es um die numerische Approximation der Riemann Zet
 
 # To do:
 ### Einleitung
-- [ ] Thematische Einleitung zur Riemann Zeta Funktion
+- [x] Thematische Einleitung zur Riemann Zeta Funktion
 ### Einfache Summierung
 - [ ] Ansatz zur einfachen Summierung beschreiben -> Abbruchkriterium erklären
 - [ ] Konvergenzverhalten einfacher Summe als Funktion von Zeit + Genauigkeit
