@@ -7,7 +7,7 @@ Bei diesem Aufgabenblatt geht es um die numerische Approximation der Riemann Zet
 ### Einfache Summierung
 - [ ] Ansatz zur einfachen Summierung beschreiben -> Abbruchkriterium erklären
 - [x] Konvergenzverhalten einfacher Summe als Funktion von Zeit + Genauigkeit
-- [ ] Erklärung für Fehlschlag bei einfacher Summierung
+- [ ] Erklärung für Fehlschlag bei einfacher Summierung -> Hinweis auf Iterationsmenge
 - [ ] Konvergenzordnung von einfacher Summierung -> Analytisch & Vergleich mit Plot
 ### Erweiterte Mittelwertbildung
 - [ ] Implementierung der Erweiterten Mittelwertmethode
