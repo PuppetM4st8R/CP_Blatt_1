@@ -13,7 +13,7 @@ Bei diesem Aufgabenblatt geht es um die numerische Approximation der Riemann Zet
 - [ ] Implementierung der Erweiterten Mittelwertmethode
 - [ ] Ansatz & Konvergenzverhalten Zeit + Genauigkeit 
 - [ ] Erklärung für besseres Konvergenzverhalten
-### Paper Version
+### Bestes Konvergenzverhalten
 - [ ] Fehlerterm Abschätzung 
 - [ ] Korrektes Konvergenzverhalten
 - [ ] Quellenangabe
